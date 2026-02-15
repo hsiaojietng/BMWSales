@@ -63,5 +63,5 @@ I have summarized the recommendations for leadership to act on in the PPTX slide
 
 ## Phase 6: Conclusion
 
-This project demonstrated how I can use data analysis and visualization to gain insights from huge amount of data on vehicle sales from the car brand, BMW, to recommend data-driven decisions to leadership on future sales strategy.
+This project demonstrated how I can use data analysis and visualization to gain insights from huge amount of data on vehicle sales from the car brand, BMW, to recommend data-driven decisions to leadership on future sales strategy in North America.
 
