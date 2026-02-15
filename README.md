@@ -47,12 +47,21 @@ From this SQL query, I am able to see how the car sales are categorized by their
 So according to this, I understand that I need to find patterns for those cars where their sales volume are between 7000 to 9999 so that we can replicate the sales strategy for those cars where their sales volume are between 100 - 6999.
 
 ## Phase 4: Visualize dataset
-Based on the dashboard, we can see that electric vehicles of top 5 high mileage has high sales classification rate of 31.86 and sold at an average price of 75.71K.
-![Electric Vehicle Dashboard](Screenshots/electric_vehicle_dashboard.png)
+Based on the dashboard, we can see that electric/hybrid vehicles of top 5 high mileage has high sales classification rate of 30.84 and sold at an average price of 75.11K.
+![Electric Hybrid Vehicle Dashboard](Screenshots/electric_hybrid_vehicle_dashboard.png)
 
 For internal combustion vehicles of top 5 high mileage that uses petrol and diesel, the high sales classification rate is 30.29 and sold at an average price of 75.03K.
 ![Internal Combustion Vehicle Dashboard](Screenshots/internal_combustion_vehicle_dashboard.png)
 
-So there is a 1% less price difference between electric vehicles and internal combustion vehicles and a higher sales rate for electric vehicles.
+So there is a 0.11% less price difference between electric vehicles and internal combustion vehicles and a higher sales rate for electric vehicles.
 
-Therefore, we can conclude that high-mileage electric vehicle prices are more competitive by 1% compared to internal combustion alternatives in North America.
+Therefore, we can conclude that high-mileage electric vehicle prices are more competitive by 0.11% compared to internal combustion alternatives in North America.
+
+## Phase 5: Recommendations
+
+I have summarized the recommendations for leadership to act on in the PPTX slide.
+
+## Phase 6: Conclusion
+
+This project demonstrated how I can use data analysis and visualization to gain insights from huge amount of data on vehicle sales from the car brand, BMW, to recommend data-driven decisions to leadership on future sales strategy.
+
